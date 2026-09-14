@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//In this code Sum of a and b.
 
 int main(){
     int a , b;

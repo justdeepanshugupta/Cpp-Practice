@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// This is my second program in which i use Arithmatic Operators
+// This is my second program in which i use Arithmatic Operators.
 
 int main(){
     int a = 10 , b = 5;

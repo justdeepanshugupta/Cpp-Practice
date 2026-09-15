@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// This is my first program in cpp
+// This is my first program in cpp.
 int main(){
     int age;
     cout << "Enter Your age: ";

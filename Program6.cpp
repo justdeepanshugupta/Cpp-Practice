@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//if-else
+//if-else.
 
 int main(){
     int n = 25;

@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Ternary Operator
+// Ternary Operator.
 int main(){
     int n = 45;
 

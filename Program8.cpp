@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Practice Question 1
+// Practice Question 1.
 int main() {
     char ch;
 
